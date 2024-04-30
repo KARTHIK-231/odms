@@ -1,0 +1,8 @@
+place_order code changed 12:14 29-4-24
+view_orders.php corrected by changing the db_connection.php and view_orders.php 2:07  29-4-24
+adding delivery boy signup and signin page
+deliver_orders.php code updated with dynamic fetch
+place_order.php code modified and sample email system integrated and successed
+deliver_orders.php remodified
+project backend partially completed
+testing remains and frontend 
